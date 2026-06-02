@@ -9,7 +9,7 @@
 <h1>Sortable behaviour for Eloquent models</h1>
 
 [![Latest Version](https://img.shields.io/github/release/spatie/eloquent-sortable.svg?style=flat-square)](https://github.com/spatie/eloquent-sortable/releases)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/spatie/eloquent-sortable/run-tests.yml?branch=main&label=tests)
+![GitHub Workflow Status](https://github.com/spatie/eloquent-sortable/actions/workflows/run-tests.yml/badge.svg)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/eloquent-sortable.svg?style=flat-square)](https://packagist.org/packages/spatie/eloquent-sortable)
     
